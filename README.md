@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BR118
 - 🌱 I’m currently studying for a masters in digital chemistry
-- 💻 Interest in Python and SQL
+
 
 
 <!---
